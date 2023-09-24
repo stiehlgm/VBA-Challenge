@@ -1,2 +1,3 @@
 # VBA-Challenge
 Week 2 VBA Challenge
+For this project I had to utilize many outside sources. Videos from youtube and a few VBA written code examples were needed for me to walk through the coding process. After spending 6+ hrs on this challenge I feel much more confident with the basic VBA coding for excel. The major format of my work was replicated from an example template I found from another GitLab source. However, I did not copy or paste any of that work and I only used it to help me underrstand the structure that best kept the code organized. I used youbue to research more specific codes needed. This was a fun challenge and 6hrs went by way too fast! It was very rewarding to see the bits of code come together and work correctly!
